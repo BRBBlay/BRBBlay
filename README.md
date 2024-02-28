@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BRBBlay
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI & Big Data
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project or build my own once I have more knowledge.
 - 📫 How to reach me ...
 
 <!---
